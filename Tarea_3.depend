@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1603356174 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TDA&CSV/Mapa.h"
+	"FunMain.h"
+
+1590705610 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1590705608 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\csv.h
+
+1601849844 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1601849843 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\mapa.h
+
+1603346648 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1590258891 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\nodo.h
+
+1595140290 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\lista.h
+	"Nodo.h"
+
+1590258902 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\tda&csv\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
+1603357402 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\ciudad.c
+	"Ciudad.h"
+
+1603357370 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\ciudad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDA&CSV/Lista.h"
+
+1603356172 c:\users\rafae\desktop\tareas progra (diego)\tarea_3\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdbool.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/CSV.h"
+	"Ciudad.h"
+
+1603357773 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3\funmain.c
+	"FunMain.h"
+
+1603673268 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\ciudad.c
+	"Ciudad.h"
+
+1603672951 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\ciudad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TDA&CSV/Lista.h"
+
+1603441388 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\lista.h
+	"Nodo.h"
+
+1590258891 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\nodo.h
+
+1603765358 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\funmain.c
+	"FunMain.h"
+
+1603699416 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdbool.h>
+	"TDA&CSV/Mapa.h"
+	"TDA&CSV/Lista.h"
+	"TDA&CSV/CSV.h"
+	"Ciudad.h"
+
+1601849843 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\mapa.h
+
+1590705608 c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\csv.h
+
+1603700473 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TDA&CSV/Mapa.h"
+	"FunMain.h"
+
+1590705610 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1603443780 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1601849844 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1590258902 source:c:\users\rafae\desktop\tareas progra (diego)\tarea_3(mi opcion)\tda&csv\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
