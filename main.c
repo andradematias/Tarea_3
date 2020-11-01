@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
-#include "TDA&CSV/Mapa.h"
+#include "Mapa.h"
 #include "FunMain.h"
 
 #define min 20

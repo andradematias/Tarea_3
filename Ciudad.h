@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "TDA&CSV/Lista.h"
+#include "Lista.h"
 
 #define max 100
 

@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="CSV.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CSV.h" />
 		<Unit filename="Ciudad.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -39,22 +43,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="FunMain.h" />
-		<Unit filename="TDA&amp;CSV/CSV.c">
+		<Unit filename="Lista.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="TDA&amp;CSV/CSV.h" />
-		<Unit filename="TDA&amp;CSV/Lista.c">
+		<Unit filename="Lista.h" />
+		<Unit filename="Mapa.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="TDA&amp;CSV/Lista.h" />
-		<Unit filename="TDA&amp;CSV/Mapa.c">
+		<Unit filename="Mapa.h" />
+		<Unit filename="Nodo.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="TDA&amp;CSV/Mapa.h" />
-		<Unit filename="TDA&amp;CSV/Nodo.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="TDA&amp;CSV/Nodo.h" />
+		<Unit filename="Nodo.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

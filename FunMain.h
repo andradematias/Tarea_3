@@ -8,9 +8,9 @@
 #include <ctype.h>
 #include <stdbool.h>
 
-#include "TDA&CSV/Mapa.h"
-#include "TDA&CSV/Lista.h"
-#include "TDA&CSV/CSV.h"
+#include "Mapa.h"
+#include "Lista.h"
+#include "CSV.h"
 #include "Ciudad.h"
 
 #define max 100

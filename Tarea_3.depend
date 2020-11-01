@@ -127,3 +127,67 @@
 	<stdlib.h>
 	"Nodo.h"
 
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\ciudad.c
+	"Ciudad.h"
+
+1604243327 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\ciudad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1604242588 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\lista.h
+	"Nodo.h"
+
+1604242588 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\nodo.h
+
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\csv.c
+	<stdio.h>
+	<stdlib.h>
+	"CSV.h"
+
+1604242588 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\csv.h
+
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\funmain.c
+	"FunMain.h"
+
+1604243327 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\funmain.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdbool.h>
+	"Mapa.h"
+	"Lista.h"
+	"CSV.h"
+	"Ciudad.h"
+
+1604242588 c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\mapa.h
+
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Nodo.h"
+	"Lista.h"
+
+1604243327 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Mapa.h"
+	"FunMain.h"
+
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Mapa.h"
+
+1604242588 source:c:\users\matías\downloads\tarea_3_ed-main\tarea_3_ed-main\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+
